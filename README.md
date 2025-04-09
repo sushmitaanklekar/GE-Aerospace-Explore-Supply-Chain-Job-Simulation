@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5c58965a-8637-41b7-b585-d64cfc807f9d)# GE-Aerospace-Explore-Supply-Chain-Job-Simulation
+# GE-Aerospace-Explore-Supply-Chain-Job-Simulation
 ![GE Aerospace](https://github.com/user-attachments/assets/31b32ec0-b264-4e1c-84cc-071f710c8cc9)
 
     Completed a simulation focused on GE Aerospace’s Supply Chain engineering.
