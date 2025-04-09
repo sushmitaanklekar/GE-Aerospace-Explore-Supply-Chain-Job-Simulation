@@ -1,5 +1,5 @@
 # GE-Aerospace-Explore-Supply-Chain-Job-Simulation
-![Uploading GE Aerospace.jpeg…]()
+![Uploading image.png…]()
 
     Completed a simulation focused on GE Aerospace’s Supply Chain engineering.
     Developed a procedure to disassemble a GEnx-1B high bypass turbofan engine core.
